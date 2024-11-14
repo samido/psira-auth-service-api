@@ -69,7 +69,6 @@ Create your first JPA entity
 [Related guide section...](https://quarkus.io/guides/hibernate-orm)
 
 
-
 ### RESTEasy JAX-RS
 
 Easily start your RESTful Web Services
